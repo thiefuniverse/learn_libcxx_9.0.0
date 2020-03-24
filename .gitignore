@@ -3,6 +3,6 @@
 *.log
 tmp/
 
-libcxx-9.0.0.src/
+deps/libcxx-9.0.0.src/
 *.egg
 build
